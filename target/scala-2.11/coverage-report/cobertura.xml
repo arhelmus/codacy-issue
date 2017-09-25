@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage 
+line-rate="0.33" lines-valid="3" lines-covered="1" branches-valid="0" branches-covered="0" branch-rate="1.00" complexity="0" version="1.0" timestamp="1506341470456">
+    <sources>
+        <source>--source</source>
+        <source>/Users/akushka/Projects/codacy-issue/src/main/scala</source>
+    </sources>
+    <packages>
+        <package name="&lt;empty&gt;" line-rate="0.33" branch-rate="1.00" complexity="0">
+            <classes>
+                <class name="Boot" filename="Boot.scala" line-rate="0.00" branch-rate="0.00" complexity="0">
+                    <methods>
+                        <method name="&lt;empty&gt;/Boot/&lt;none&gt;" signature="()V" line-rate="0.00" branch-rate="0.00" complexity="0">
+                            <lines>
+                                <line number="5" hits="0" branch="false"/>
+                                <line number="5" hits="0" branch="false"/>
+                            </lines>
+                        </method>
+                    </methods>
+                    <lines>
+                        <line number="5" hits="0" branch="false"/>
+                        <line number="5" hits="0" branch="false"/>
+                    </lines>
+                </class>
+                <class name="SomeService" filename="SomeService.scala" line-rate="1.00" branch-rate="1.00" complexity="0">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/SomeService/returnMessage" signature="()V" line-rate="1.00" branch-rate="1.00" complexity="0">
+                            <lines>
+                                <line number="3" hits="1" branch="false"/>
+                            </lines>
+</method>
+                    </methods>
+                    <lines>
+                        <line number="3" hits="1" branch="false"/>
+                    </lines>
+                </class>
+            </classes>
+        </package>
+    </packages>
+</coverage>

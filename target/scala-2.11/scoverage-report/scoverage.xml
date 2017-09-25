@@ -1,0 +1,38 @@
+<scoverage 
+statement-count="3" statements-invoked="1" statement-rate="33.33" branch-rate="100.00" version="1.0" timestamp="1506341470481">
+    <packages>
+        <package name="&lt;empty&gt;" statement-count="3" statements-invoked="1" statement-rate="33.33">
+            <classes>
+                <class 
+                name="Boot" filename="Boot.scala" statement-count="2" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/Boot/&lt;none&gt;" statement-count="2" statements-invoked="0" statement-rate="0.00" branch-rate="0.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="Boot" class-type="Object" full-class-name="Boot" source="/Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala" method="&lt;none&gt;" start="31" end="73" line="5" branch="false" invocation-count="0" ignored="false">
+</statement>
+                                <statement 
+                                package="&lt;empty&gt;" class="Boot" class-type="Object" full-class-name="Boot" source="/Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala" method="&lt;none&gt;" start="39" end="72" line="5" branch="false" invocation-count="0" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+                <class 
+                name="SomeService" filename="SomeService.scala" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="&lt;empty&gt;/SomeService/returnMessage" statement-count="1" statements-invoked="1" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="&lt;empty&gt;" class="SomeService" class-type="Class" full-class-name="SomeService" source="/Users/akushka/Projects/codacy-issue/src/main/scala/SomeService.scala" method="returnMessage" start="53" end="67" line="3" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

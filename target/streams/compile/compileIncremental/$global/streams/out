@@ -1,0 +1,81 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set(/Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala, /Users/akushka/Projects/codacy-issue/src/main/scala/SomeService.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala, /Users/akushka/Projects/codacy-issue/src/main/scala/SomeService.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala, /Users/akushka/Projects/codacy-issue/src/main/scala/SomeService.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala, /Users/akushka/Projects/codacy-issue/src/main/scala/SomeService.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 2 sources: invalidated sources (2) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 2 Scala sources to /Users/akushka/Projects/codacy-issue/target/scala-2.11/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.11.8[0m
+[0m[[0minfo[0m] [0m'compiler-interface' not yet compiled for Scala 2.11.8. Compiling...[0m
+[0m[[0mdebug[0m] [0mPlain interface to Scala compiler 2.11.8  with arguments: [0m
+[0m[[0mdebug[0m] [0m	-nowarn[0m
+[0m[[0mdebug[0m] [0m	-d[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_6fe029bd[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/classes:/Users/akushka/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/akushka/.sbt/boot/scala-2.10.6/org.scala-sbt/sbt/0.13.16/xsbti/interface-0.13.16.jar:/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_a8849067/srcs/org.scala-sbt/compiler-interface/compiler-interface-0.13.16-sources.jar:/Users/akushka/.ivy2/cache/org.scala-lang/scala-compiler/jars/scala-compiler-2.11.8.jar:/Users/akushka/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.11.8.jar:/Users/akushka/.ivy2/cache/org.scala-lang.modules/scala-xml_2.11/bundles/scala-xml_2.11-1.0.4.jar:/Users/akushka/.ivy2/cache/org.scala-lang.modules/scala-parser-combinators_2.11/bundles/scala-parser-combinators_2.11-1.0.4.jar:/Users/akushka/.ivy2/cache/jline/jline/jars/jline-2.12.1.jar[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/API.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/Analyzer.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/Command.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/Compat.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/CompilerInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/ConsoleInterface.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/DelegatingReporter.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/Dependency.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/ExtractAPI.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/ExtractUsedNames.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/GlobalHelpers.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/LocateClassFile.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/Log.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/Message.scala[0m
+[0m[[0mdebug[0m] [0m	/var/folders/lh/kff8vjsx1pgbls734d8d9h300000gp/T/sbt_596a98ef/xsbt/ScaladocInterface.scala[0m
+[0m[[0minfo[0m] [0m  Compilation completed in 7.31 s[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.11.8[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 38105df1, interfacing (CompilerInterface) with Scala compiler version 2.11.8[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-Xplugin:/Users/akushka/.ivy2/cache/org.scoverage/scalac-scoverage-plugin_2.11/jars/scalac-scoverage-plugin_2.11-1.3.0.jar[0m
+[0m[[0mdebug[0m] [0m	-P:scoverage:dataDir:/Users/akushka/Projects/codacy-issue/target/scala-2.11/scoverage-data[0m
+[0m[[0mdebug[0m] [0m	-Yrangepos[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/jdk1.8.0_112.jdk/Contents/Home/jre/classes:/Users/akushka/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.8.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/Users/akushka/Projects/codacy-issue/target/scala-2.11/classes:/Users/akushka/.ivy2/cache/org.scoverage/scalac-scoverage-runtime_2.11/jars/scalac-scoverage-runtime_2.11-1.3.0.jar[0m
+[0m[[0minfo[0m] [0m[info] Cleaning datadir [/Users/akushka/Projects/codacy-issue/target/scala-2.11/scoverage-data][0m
+[0m[[0minfo[0m] [0m[info] Beginning coverage instrumentation[0m
+[0m[[0minfo[0m] [0m[info] Instrumentation completed [3 statements][0m
+[0m[[0minfo[0m] [0m[info] Wrote instrumentation file [/Users/akushka/Projects/codacy-issue/target/scala-2.11/scoverage-data/scoverage.coverage.xml][0m
+[0m[[0minfo[0m] [0m[info] Will write measurement data to [/Users/akushka/Projects/codacy-issue/target/scala-2.11/scoverage-data][0m
+[0m[[0mdebug[0m] [0mScala compilation took 8.155365059 s[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, Boot, equals, asInstanceOf, executionStart, synchronized, $isInstanceOf, main, notifyAll, isInstanceOf, ==, clone, $init$, toString, args, !=, getClass, ne, eq, delayedInit, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating /Users/akushka/Projects/codacy-issue/src/main/scala/SomeService.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidating (transitively) by inheritance from /Users/akushka/Projects/codacy-issue/src/main/scala/SomeService.scala...[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/Users/akushka/Projects/codacy-issue/src/main/scala/SomeService.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated by transitive inheritance dependency: Set(/Users/akushka/Projects/codacy-issue/src/main/scala/SomeService.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] The /Users/akushka/Projects/codacy-issue/src/main/scala/SomeService.scala source file has the following regular definitions changed:[0m
+[0m[[0mdebug[0m] [0m[naha] 	notify, wait, $asInstanceOf, equals, asInstanceOf, synchronized, $isInstanceOf, notifyAll, returnMessage, isInstanceOf, <init>, ==, clone, toString, !=, getClass, SomeService, ne, eq, ##, finalize, hashCode.[0m
+[0m[[0mdebug[0m] [0m[naha] All member reference dependencies will be considered within this context.[0m
+[0m[[0mdebug[0m] [0m[naha] The following modified names cause invalidation of /Users/akushka/Projects/codacy-issue/src/main/scala/Boot.scala: Set(returnMessage, <init>, SomeService)[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
